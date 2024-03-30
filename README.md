@@ -23,6 +23,7 @@
 `python3 <filename>`
 
 Установить себе приложение можно, склонировав репозиторий
+https://github.com/Tanya2345/predprof_tretyakovatatianadmitrievna.git
 
 
 ## Как использовать проект
